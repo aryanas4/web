@@ -1,0 +1,47 @@
+h1 {
+	color: #113537;
+	font-family: georgia;
+	font-variant: small-caps;
+}
+
+body {
+	background-color: #D2EEEE;
+	text-align: center;
+	font-family: georgia;
+	color: #5E6A94;
+}
+
+h2 {
+	color: #613F75;
+}
+
+h3 {
+	font-weight: bold;
+	font-style: italic;
+	color: #613F75;
+}
+
+ol#TableContents {
+	margin: auto;
+	max-height: 100px;
+	max-width: 100px;
+}
+
+p {
+	text-align: left;
+	margin: auto;
+	max-height: 600px;
+	max-width: 600px;
+}
+
+ul {
+	text-align: left;
+	margin: auto;
+	max-height: 600px;
+	max-width: 600px;
+}
+
+img {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
